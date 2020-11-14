@@ -1,34 +1,32 @@
-.top_nav{
-background:rgba(0,0,0,0.8);
-}
-
 .block1{
-  background-color:yellow;
-  border:1px black solid;
-  margin-bottom:5px;
+   background-color: grey;
+   border: 1px black solid;
+   margin-bottom: 15px ;
 }
-
 .nav1{
-  background-color:black;
-    border:1px black solid;
+    background-color: black;
+    color: white;
+    border: 1px black solid;
 }
-
 .block2{
-  background-color:orange;
-  border:1px black solid;
+   background-color: grey;
+   border: 1px black solid;
+   margin-bottom: 15px ;
 }
-
 .nav2{
-  background-color:black;
-   border:1px black solid;
+    background-color: black;
+    color: white;
+    border: 1px black solid;
 }
-
 .block3{
-background-color:red;
-  border:1px black solid;
+   background-color: grey;
+   border: 1px black solid;
+   margin-bottom: 15px ;
 }
+.nav3{
+    background-color: black;
+    color: white;
+    border: 1px black solid;
+}
+*{margin: 0 }
 
-.nav4{
-  background-color:black;
-  border:1px black solid;
-}
