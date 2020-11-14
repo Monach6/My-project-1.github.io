@@ -3,18 +3,18 @@ background:rgba(0,0,0,0.8);
 }
 
 .block1{
-  background-color: grey;
+  background-color:yellow;
   border-width:2px;
   border-style:solid;
 }
 
 .nav1{
-  background-color:black;
+  background-color:red;
   color:white:
 }
 
 .block2{
-  background-color:grey;
+  background-color:orange;
     border-width:2px;
   border-style:solid;
 }
