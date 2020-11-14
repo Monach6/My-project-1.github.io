@@ -4,8 +4,8 @@ background:rgba(0,0,0,0.8);
 
 .block1{
   background-color:yellow;
-  border-width:2px;
-  border-style:solid;
+  border:1px black solid;
+  margin-bottom:5px;
 }
 
 .nav1{
