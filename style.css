@@ -10,27 +10,25 @@ background:rgba(0,0,0,0.8);
 
 .nav1{
   background-color:black;
-  color:white:
+    border:1px black solid;
 }
 
 .block2{
   background-color:orange;
-    border-width:2px;
-  border-style:solid;
+  border:1px black solid;
 }
 
 .nav2{
   background-color:black;
-  color:white;
+   border:1px black solid;
 }
 
 .block3{
 background-color:red;
-    border-width:2px;
-  border-style:solid;
+  border:1px black solid;
 }
 
 .nav4{
   background-color:black;
-  color: white;
+  border:1px black solid;
 }
